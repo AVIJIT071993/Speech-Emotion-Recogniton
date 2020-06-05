@@ -4,7 +4,8 @@ This project enables you to predict the mood of a human being by analyzing the s
 
 You can download the dataset from kaggle: https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 
-Libraries required for the project are as follows:
+**Libraries required for the project are as follows:**
+
 1. pip install librosa
 2. pip install soundfile
 3. pip install os
@@ -13,4 +14,4 @@ Libraries required for the project are as follows:
 6. pip install pyaudio
 7. pip install wave
 8. pip install array
-93 pip install numpy
+9. pip install numpy
